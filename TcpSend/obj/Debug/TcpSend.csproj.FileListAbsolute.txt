@@ -1,0 +1,14 @@
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\bin\Debug\TcpSend.exe.config
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\TcpSend.csprojResolveAssemblyReference.cache
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\MainWindow.g.cs
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\App.g.cs
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\TcpSend_MarkupCompile.cache
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\TcpSend_MarkupCompile.lref
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\bin\Debug\TcpSend.exe
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\bin\Debug\TcpSend.pdb
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\MainWindow.baml
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\TcpSend.g.resources
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\TcpSend.Properties.Resources.resources
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\TcpSend.csproj.GenerateResource.Cache
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\TcpSend.exe
+d:\users\kc-isd3d\documents\visual studio 2015\Projects\TcpSend\TcpSend\obj\Debug\TcpSend.pdb
